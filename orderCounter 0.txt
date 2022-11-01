@@ -1,0 +1,11 @@
+Receipt: 0
+ 
+*****************************
+ 
+Chicken Burger: 3 With cheese
+ 
+Beef Burger: 4 With cheese
+ 
+Water: 3
+ 
+Juice: 4
